@@ -6,3 +6,6 @@ MAYA LAB01
 
 MAYA LAB02 
   For this lab I used my whale shark rig. It is a stylized whale shark model that is fully rigged and skinned. It is all FK as whales dont really have anything that needs IK. 
+
+MAYA LAB03
+  This animation is of a person spiking a volley ball at the beach. The hardest part was getting the angle of the jump right without colliding with the net. I also used squash and stretch on the ball to make it look like it was going faster. 
