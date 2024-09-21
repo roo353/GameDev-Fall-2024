@@ -9,3 +9,6 @@ MAYA LAB02
 
 MAYA LAB03
   This animation is of a person spiking a volley ball at the beach. The hardest part was getting the angle of the jump right without colliding with the net. I also used squash and stretch on the ball to make it look like it was going faster. 
+
+MAYA LAB04 
+  For this lab I showed my robot arm in a scene with pink and purple lighting coming from both sides. Instead of having the hard edges a normal room would have, I beveled the corner making it smooth and making a cool etheral effect with lighting.
